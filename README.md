@@ -1,3 +1,4 @@
-# burgers
+# [Одностраничеый сайт](https://andrianovroman.github.io/burgers/) - burgers
 
-https://andrianovroman.github.io/burgers/
+- Есть адаптив до 320px
+- 
